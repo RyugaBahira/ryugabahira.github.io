@@ -302,3 +302,5 @@ media.net, 8CU9B72O6, RESELLER
 media.net, 8CU12AQ1Y, RESELLER
 onairglobal.com, 4357629, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 17779, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
