@@ -304,3 +304,4 @@ onairglobal.com, 4357629, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 17779, RESELLER
 pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+xandr.com, 17779, RESELLER
