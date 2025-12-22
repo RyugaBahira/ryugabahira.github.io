@@ -16,7 +16,7 @@
  *    - Heroku dengan PHP buildpack
  * 4. Update URL di aplikasi Android dengan URL hosting Anda
  * 
- * CONTOH URL: https://yourusername.github.io/ebook-api/api.php
+ * CONTOH URL: https://ryugabahira.github.io/api/api_quran_muslim.php
  * 
  * CARA MENGUBAH KREDENSIAL:
  * Edit konstanta AUTH_USERNAME dan AUTH_PASSWORD di bawah ini
