@@ -1,0 +1,20 @@
+{
+    "BGSINFOSERVER_enabled": "Y",
+    "BGSINFOSERVER_text": "Mohon update ke versi terbaru untuk penambahan fitur & perbaikan bugs.",
+    "BGSINFOSERVER_text_en": "Please update to the latest version for additional features & bug fixes.",
+    "hostServerData": "https://ryugabahira.github.io/baguss",
+    "hostServerData_backup": "https://eqberkas.loginto.me/baguss",
+    "is_api_active": "Y",
+    "is_api_active_dev": "N",
+    "is_api_foursquare_active": "N",
+    "manual_hijriyah": "2",
+    "manual_hijriyah_date": "2026-03-20",
+    "new_updated_ebook": "2026-02-20(2)",
+    "new_updated_streaming": "2024-12-04",
+    "secondary_api_backup": "AIzaSyC5_JgpClPhFyEFkuM_Vns2_LSfVloQJ_0",
+    "secondary_api_key": "AIzaSyC5_JgpClPhFyEFkuM_Vns2_LSfVloQJ_0",
+    "versi_app": "6.4.9",
+    "versi_app_kode": "204",
+    "whatsnew_ebook": "E-Book baru telah ditambahkan : Panduan Puasa, Tarawih, dan Zakat: Hukum, Hikmah, dan Manfaatnya (Karya Asy Syaikh Muhammad bin Sholih Al-Utsaimin), Fiqh Berangan-Angan- Konsep, Jenis, dan Hukumnya dalam Islam (Asy Syaikh Ibrahim bin Abdullah Al-Mazru’i), 10 Nasihat Al-Qur’an dan Hadis untuk Rumah Tangga Harmonis (Asy Syaikh Dr. Muhammad bin Ghalib Al-’Umari)"
+    
+}
