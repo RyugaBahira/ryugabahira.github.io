@@ -1,0 +1,34 @@
+[
+  {
+    "title": "MAKKAH",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+  },
+  {
+    "title": "MADINAH",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+  },
+  {
+    "title": "AHSAN TV",
+    "url": "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"
+  },
+  {
+    "title": "RODJA TV SD",
+    "url": "https://rodjatv.com/rodjatv/live_240p528kbs/index.m3u8"
+  },
+  {
+    "title": "RODJA TV HD",
+    "url": "https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8"
+  },
+  {
+    "title": "SURAU TV",
+    "url": "https://surau.tv/"
+  },
+  {
+    "title": "TV MU",
+    "url": "https://e.siar.us/live/tvmu.m3u8"
+  },
+  {
+    "title": "WESAL TV",
+    "url": "https://stream.wesaltv.id/"
+  }
+]
